@@ -194,7 +194,7 @@ li {
   max-width: 20vw;
   opacity: 0;
   padding: 2rem;
-  transform: perspective(100cm) rotateX(30deg) rotateY(30deg);
+  /* transform: perspective(10cm) rotateX(10deg) rotateY(18deg); */
   transition: all var(--slow) var(--cubic);
 }
 
